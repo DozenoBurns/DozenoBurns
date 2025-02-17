@@ -10,7 +10,7 @@
 - <b>Microsoft Azure</b>
 
     - [Configuring-On-Premises-Active-Directory within Azure VMs](https://github.com/DozenoBurns/Configuring-On-premises-Active-Directory-within-Azure-VMs.git)
-  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/DozenoBurns/azure-network-protocols)
+  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/DozenoBurns/Network-Security-Groups-NSGs-and-Inspecting-Network-Protocols.git)
 
 <h2>🤳Connect with me:</h2>
 
