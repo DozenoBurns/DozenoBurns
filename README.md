@@ -5,7 +5,7 @@
 - <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket: Prerequisites and Installation](https://github.com/DozenoBurns/osticket-prereqs)
   - [osTicket: Post-Installation Configuration](https://github.com/DozenoBurns/osTicket-Post-Installation-Configuration.git)
-  - [osTicket: Ticket Lifecycle Examples](https://github.com/DozenoBurns/ticket-lifecycle)
+  - [osTicket: Ticket Lifecycle Examples](https://github.com/DozenoBurns/osTicket-Ticket-Lifecycle-Examples.git)
 
 - <b>Microsoft Azure</b>
 
