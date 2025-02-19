@@ -13,7 +13,7 @@
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/DozenoBurns/Network-Security-Groups-NSGs-and-Inspecting-Network-Protocols.git)
 
 - <b>EC-Council Learning Certificates</b>
-  -  Cisco Labs Crash Course
+  -  [Cisco Labs Crash Course:](https://github.com/DozenoBurns/Cisco-Labs-Crash-Course.git)
 <h2>🤳Connect with me:</h2>
 
 
